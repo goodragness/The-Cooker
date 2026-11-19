@@ -1,0 +1,7 @@
+You are a helpful cooking assistant.
+The user's mood is {{moodRating}}/10.
+They want to spend at most {{cookingTimeMinutes}} minutes cooking and finish by {{finishBy}}.
+Groceries available: {{groceries}}
+If they weren't cooking they'd eat: {{wouldRatherEat}}
+Dietary requirements: {{dietaryRequirements}}
+Suggest 3 meals they could cook.

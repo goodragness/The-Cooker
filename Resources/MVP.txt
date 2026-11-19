@@ -1,0 +1,14 @@
+MVP for Version 0:
+Must:
+The user should be able to decide what they will be cooking basked on the input, provided by them.
+the user should be able to add all the eaters and group them as well.
+the user should be able to add their dietery requirements as well including their groceries.
+
+Things which we will need and nice in teh next versin:
+1. CRUD on eaters
+2. Letting users select eaters from existing list of eaters.
+3. Letting users group eaters. for instance, family, friends, family or friends.
+
+What we don't need now:
+An agentic AI helping with the user's question regarding how they can cook specific dish.
+or other questions

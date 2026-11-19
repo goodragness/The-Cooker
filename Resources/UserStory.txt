@@ -1,0 +1,11 @@
+The following file consists of the user's stories:
+1. the app should help users to decide what they can cook tonight.
+2. the app should also allow users to select from options of what they can cook
+3. the app should help user to decide what they can cook tonight rather than guessing on the basis of user's inputs.
+4. the app should let users put important information which can help the app to decide the most optimal dish the user can cook
+5. the app should let users put input like, rating their model, how much time they are left with, what time they want to get done with cooking cookers
+and on the basis of all these information, it can be decided the most optimal thing the user can cook.
+6. the user should also be able to add groceries and eaters as well (ppl who will be eating)
+7. the user can add more than one eater.
+8. the user hsould also be able to add their and all the customer's dietery requirements as well which can help to decide the most optimal dish which can be cooked.
+
